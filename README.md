@@ -36,7 +36,7 @@ Este é um aplicativo Streamlit para realizar uma análise exploratória dos dad
 
 ### Estrutura de Arquivos
 
-- `app.py`: Código-fonte do aplicativo Streamlit.
+- `prev_renda.py`: Código-fonte do aplicativo Streamlit.
 - `previsao_de_renda.csv`: Arquivo de dados de previsão de renda.
 
 ### Requisitos
