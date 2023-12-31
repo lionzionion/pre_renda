@@ -36,7 +36,7 @@ Este é um aplicativo Streamlit para realizar uma análise exploratória dos dad
 
 ### Vídeo de demonstração
 
-[streamlit-prev_renda-2023.mov.webm](https://github.com/lionzionion/pre_renda/assets/132749135/49fba5aa-3fd1-4d40-b5be-6cb7bfedf040)
+[streamlit-prev_renda-2023.mov](https://github.com/lionzionion/pre_renda/assets/132749135/49fba5aa-3fd1-4d40-b5be-6cb7bfedf040)
 
 
 ### Estrutura de Arquivos
